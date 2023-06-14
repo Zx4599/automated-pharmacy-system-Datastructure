@@ -1,0 +1,5 @@
+Aspirin:Acetylsalicylicacid:Painrelief:Headaches:07/15/2022:100:Bayer
+Paracetamol:Acetaminophen:Painrelief:Headaches:09/01/2022:200:Johnson&Johnson
+Ibuprofen:Ibuprofen:Pain relief:Muscle pain:08/01/2023:150:Pfizer
+Naproxen:Naproxen:Pain relief:Arthritis:11/01/2023:100:Roche
+Diclofenac:Diclofenac:Pain relief:Back pain:12/01/2022:250:GlaxoSmithKline
